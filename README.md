@@ -100,6 +100,22 @@ The application allows users to:
 
 ### Request Confirmation
 ![Request Confirmation](./Screenshots/Confirmation.png)
+
+🔗 Figma Links
+🎨 Design File
+
+View the complete UI design in Figma:
+
+(https://www.figma.com/design/YmUgzfJXRcZLYTNgqTAQYz/Blood-Donor?node-id=0-1&t=RdYxwzVZ3ErGsLqT-1)
+
+📱 Interactive Prototype
+
+Explore the interactive prototype:
+
+(https://www.figma.com/proto/YmUgzfJXRcZLYTNgqTAQYz/Blood-Donor?node-id=0-1&t=RdYxwzVZ3ErGsLqT-1)
+
+
+
 ## 👨‍💻 Designed By
 
 **N V GUNADEEP REDDY**
