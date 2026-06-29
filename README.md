@@ -81,13 +81,13 @@ The application allows users to:
 ![Splash Screen](./Screenshots/Splashscreen.png)
 
 ### Login Screen
-![Login Screen](./Screenshots/LoginScreen.png)
+![Login Screen](./Screenshots/Login.png)
 
 ### Donor Registration
-![Donor Registration](./Screenshots/iPhone%2013%20%26%2014%20-4.png)
+![Donor Registration](./Screenshots/Register.png)
 
 ### Home Dashboard
-![Home Dashboard](./Screenshots/Homescreen%20.png)
+![Home Dashboard](./Screenshots/Homescreen.png)
 
 ### Donor Search
 ![Donor Search](./Screenshots/Blood%20Donor.png)
@@ -100,7 +100,6 @@ The application allows users to:
 
 ### Request Confirmation
 ![Request Confirmation](./Screenshots/Confirmation.png)
-
 ## 👨‍💻 Designed By
 
 **N V GUNADEEP REDDY**
