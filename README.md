@@ -1,7 +1,7 @@
 # 🩸 Blood Donor Finder – Blood Donation App UI
 
 ### App Logo
-![App Logo](Screenshots/iPhone%2013%20%26%2014-3.png)
+![App Logo](./Screenshots/Logo.png)
 
 ## 📌 Project Overview
 
@@ -75,29 +75,31 @@ The application allows users to:
 ---
 ## 📸 Screenshots
 
-### Get Started
-![Get Started](./Screenshots/iPhone%2013%20%26%2014%20-2.png)
+## 📸 Screenshots
 
-### App Logo
-![Logo](./Screenshots/iPhone%2013%20%26%2014%20-3.png)
+### Splash Screen
+![Splash Screen](./Screenshots/Splashscreen.png)
 
-### Login
-![Login](./Screenshots/iPhone%2013%20%26%2014%20-4.png)
+### Login Screen
+![Login Screen](./Screenshots/LoginScreen.png)
 
 ### Donor Registration
-![Registration](./Screenshots/iPhone%2013%20%26%2014%20-5.png)
+![Donor Registration](./Screenshots/iPhone%2013%20%26%2014%20-4.png)
 
 ### Home Dashboard
-![Home](./Screenshots/iPhone%2013%20%26%2014%20-6.png)
+![Home Dashboard](./Screenshots/Homescreen%20.png)
 
 ### Donor Search
-![Search](./Screenshots/iPhone%2013%20%26%2014%20-7.png)
+![Donor Search](./Screenshots/Blood%20Donor.png)
 
 ### Donor Details
-![Details](./Screenshots/iPhone%2013%20%26%2014%20-8.png)
+![Donor Details](./Screenshots/Details.png)
+
+### Donor Profile
+![Donor Profile](./Screenshots/donordetails.png)
 
 ### Request Confirmation
-![Confirmation](./Screenshots/iPhone%2013%20%26%2014%20-9.png)
+![Request Confirmation](./Screenshots/Confirmation.png)
 
 ## 👨‍💻 Designed By
 
