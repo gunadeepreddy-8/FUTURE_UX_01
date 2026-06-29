@@ -79,7 +79,7 @@ The application allows users to:
 ![Splash Screen](Screenshots/iPhone%2013%20%26%2014.png)
 
 ### Get Started Screen
-![Get Started](Screenshots/iPhone%2013%20%26%2014-2.png)
+![Get Started](Screenshots/iPhone 13 & 14 - 2.png)
 
 ### Login Screen
 ![Login](Screenshots/iPhone%2013%20%26%2014-4.png)
