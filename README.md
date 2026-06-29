@@ -73,29 +73,31 @@ The application allows users to:
 - Request Tracking
 
 ---
-### Get Started
-![Get Started](Screenshots/iPhone%2013%20%26%2014%20-2.png)
+## 📸 Screenshots
 
-### Logo
-![Logo](Screenshots/iPhone%2013%20%26%2014%20-3.png)
+### Get Started
+![Get Started](./Screenshots/iPhone%2013%20%26%2014%20-2.png)
+
+### App Logo
+![Logo](./Screenshots/iPhone%2013%20%26%2014%20-3.png)
 
 ### Login
-![Login](Screenshots/iPhone%2013%20%26%2014%20-4.png)
+![Login](./Screenshots/iPhone%2013%20%26%2014%20-4.png)
 
 ### Donor Registration
-![Registration](Screenshots/iPhone%2013%20%26%2014%20-5.png)
+![Registration](./Screenshots/iPhone%2013%20%26%2014%20-5.png)
 
 ### Home Dashboard
-![Home](Screenshots/iPhone%2013%20%26%2014%20-6.png)
+![Home](./Screenshots/iPhone%2013%20%26%2014%20-6.png)
 
 ### Donor Search
-![Search](Screenshots/iPhone%2013%20%26%2014%20-7.png)
+![Search](./Screenshots/iPhone%2013%20%26%2014%20-7.png)
 
 ### Donor Details
-![Details](Screenshots/iPhone%2013%20%26%2014%20-8.png)
+![Details](./Screenshots/iPhone%2013%20%26%2014%20-8.png)
 
 ### Request Confirmation
-![Confirmation](Screenshots/iPhone%2013%20%26%2014%20-9.png)
+![Confirmation](./Screenshots/iPhone%2013%20%26%2014%20-9.png)
 
 ## 👨‍💻 Designed By
 
