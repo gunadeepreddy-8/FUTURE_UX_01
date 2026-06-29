@@ -73,31 +73,29 @@ The application allows users to:
 - Request Tracking
 
 ---
-## 📸 Screenshots
+### Get Started
+![Get Started](Screenshots/iPhone%2013%20%26%2014%20-2.png)
 
-### Splash Screen
-![Splash Screen](Screenshots/iPhone%2013%20%26%2014.png)
+### Logo
+![Logo](Screenshots/iPhone%2013%20%26%2014%20-3.png)
 
-### Get Started Screen
-![Get Started](Screenshots/iPhone 13 & 14 - 2.png)
-
-### Login Screen
-![Login](Screenshots/iPhone%2013%20%26%2014-4.png)
+### Login
+![Login](Screenshots/iPhone%2013%20%26%2014%20-4.png)
 
 ### Donor Registration
-![Donor Registration](Screenshots/iPhone%2013%20%26%2014-5.png)
+![Registration](Screenshots/iPhone%2013%20%26%2014%20-5.png)
 
 ### Home Dashboard
-![Home Dashboard](Screenshots/iPhone%2013%20%26%2014-6.png)
+![Home](Screenshots/iPhone%2013%20%26%2014%20-6.png)
 
 ### Donor Search
-![Donor Search](Screenshots/iPhone%2013%20%26%2014-7.png)
+![Search](Screenshots/iPhone%2013%20%26%2014%20-7.png)
 
 ### Donor Details
-![Donor Details](Screenshots/iPhone%2013%20%26%2014-8.png)
+![Details](Screenshots/iPhone%2013%20%26%2014%20-8.png)
 
-### Blood Request Confirmation
-![Request Confirmation](Screenshots/iPhone%2013%20%26%2014-9.png)
+### Request Confirmation
+![Confirmation](Screenshots/iPhone%2013%20%26%2014%20-9.png)
 
 ## 👨‍💻 Designed By
 
